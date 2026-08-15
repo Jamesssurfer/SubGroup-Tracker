@@ -14,7 +14,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 ### 🟢 Top 10 Industry Subgroup Leaders (Highest RS Rating)
 
-
 | Rank | Ticker | Subgroup Name | Sector | IBD RS Rating |
 | :---: | :---: | :--- | :--- | :---: |
 | 1 | `SMH` | Semiconductor Manufacturers | Technology | 🟢 **99** |
@@ -29,7 +28,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 10 | `NXTG` | NextGen 5G & Telecom Infrastructure | Communication | 🟢 **85** |
 
 ### 🔴 Bottom 10 Industry Subgroup Laggards (Lowest RS Rating)
-
 
 | Rank | Ticker | Subgroup Name | Sector | IBD RS Rating |
 | :---: | :---: | :--- | :--- | :---: |
@@ -52,7 +50,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🟢 Past 3 Months — Top 10 Leaders
 
-
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 1 | `HACK` | Cybersecurity | Technology | 🟢 `+34.91%` |
@@ -68,7 +65,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🔴 Past 3 Months — Top 10 Laggards
 
-
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 52 | `TAN` | Solar Energy | Energy | 🔴 `-19.98%` |
@@ -82,11 +78,9 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `GRID` | Smart Grid & Electric Infrastructure | Utilities | 🔴 `-4.41%` |
 | 61 | `GDX` | Gold Miners | Materials | 🔴 `-4.24%` |
 
-
 ### 📈 Past 6 Months
 
 #### 🟢 Past 6 Months — Top 10 Leaders
-
 
 | Rank | Ticker | Subgroup Name | Sector | Past 6 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
@@ -103,7 +97,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🔴 Past 6 Months — Top 10 Laggards
 
-
 | Rank | Ticker | Subgroup Name | Sector | Past 6 Months Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 52 | `URA` | Uranium & Nuclear Energy | Energy | 🔴 `-13.45%` |
@@ -117,11 +110,9 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `PBJ` | Food & Beverage Manufacturers | Consumer Staples | 🔴 `-4.71%` |
 | 61 | `IHI` | Medical Devices & Equipment | Health Care | 🔴 `-3.63%` |
 
-
 ### 📈 Past 1 Year
 
 #### 🟢 Past 1 Year — Top 10 Leaders
-
 
 | Rank | Ticker | Subgroup Name | Sector | Past 1 Year Return |
 | :---: | :---: | :--- | :--- | ---: |
@@ -138,7 +129,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🔴 Past 1 Year — Top 10 Laggards
 
-
 | Rank | Ticker | Subgroup Name | Sector | Past 1 Year Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 52 | `FINX` | FinTech & Digital Payments | Technology | 🔴 `-18.87%` |
@@ -152,11 +142,9 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `XHB` | Homebuilders & Residential Construction | Consumer Discretionary | 🔴 `-3.35%` |
 | 61 | `WOOD` | Timber & Forestry | Materials | 🔴 `-0.73%` |
 
-
 ### 📈 Past 3 Years
 
 #### 🟢 Past 3 Years — Top 10 Leaders
-
 
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Years Return |
 | :---: | :---: | :--- | :--- | ---: |
@@ -173,7 +161,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 
 #### 🔴 Past 3 Years — Top 10 Laggards
 
-
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Years Return |
 | :---: | :---: | :--- | :--- | ---: |
 | 52 | `TAN` | Solar Energy | Energy | 🔴 `-15.71%` |
@@ -187,15 +174,9 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `BETZ` | Casinos, Gaming & Sports Betting | Consumer Discretionary | 🟢 `+17.10%` |
 | 61 | `BIZD` | Business Development Companies (BDCs) | Financials | 🟢 `+18.18%` |
 
-
 ---
 
-## 📋 Complete Master Table (All Subgroups)
-
-<details>
-<summary><b>Click here to expand the full list of all Industry Subgroups</b></summary>
-
-
+## 📋 Complete Master Table (All Subgroups Ranked by IBD RS)
 
 | Rank | RS | Ticker | Subgroup Name | Sector | Price | 1M | 3M | 6M | 1Y | 3Y |
 | :---: | :---: | :---: | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -260,7 +241,4 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 59 | 🔴 **6** | `FINX` | FinTech & Digital Payments | Technology | $26.76 | 🟢 `+4.98%` | 🟢 `+5.54%` | 🟢 `+14.95%` | 🔴 `-18.87%` | 🟢 `+20.85%` |
 | 60 | 🔴 **4** | `VNQI` | International Real Estate | Real Estate | $45.49 | 🟢 `+0.33%` | 🔴 `-2.76%` | 🔴 `-9.81%` | 🟢 `+1.15%` | 🟢 `+29.63%` |
 | 61 | 🔴 **3** | `URA` | Uranium & Nuclear Energy | Energy | $44.93 | 🟢 `+8.13%` | 🔴 `-14.42%` | 🔴 `-13.45%` | 🟢 `+20.61%` | 🟢 `+126.59%` |
-
-
-</details>
 
