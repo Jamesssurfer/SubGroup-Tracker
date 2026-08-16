@@ -12,7 +12,11 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 - 🟡 **RS 31–79:** Neutral / In-Line Subgroups
 - 🔴 **RS ≤ 30:** Severe Sub-Industry Laggards (Institutional Distribution)
 
-### 🟢 Top 10 Industry Subgroup Leaders (Highest RS Rating)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Top 10 Leaders**
 
 | Rank | Ticker | Subgroup Name | Sector | IBD RS Rating |
 | :---: | :---: | :--- | :--- | :---: |
@@ -27,7 +31,11 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 9 | `IDNA` | Genomics & Immunology | Health Care | 🟢 **86** |
 | 10 | `NXTG` | NextGen 5G & Telecom Infrastructure | Communication | 🟢 **85** |
 
-### 🔴 Bottom 10 Industry Subgroup Laggards (Lowest RS Rating)
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Top 10 Laggards**
 
 | Rank | Ticker | Subgroup Name | Sector | IBD RS Rating |
 | :---: | :---: | :--- | :--- | :---: |
@@ -42,16 +50,72 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `IHI` | Medical Devices & Equipment | Health Care | 🔴 **15** |
 | 61 | `PBJ` | Food & Beverage Manufacturers | Consumer Staples | 🔴 **17** |
 
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## ⏱ Multi-Timeframe Leaders & Laggards
 
+_Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotation to be meaningful. 1-Month is shown as an early-signal tripwire, not as part of the weighted RS score itself._
+
+### 📈 Past 1 Month
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Top 10 Leaders**
+
+| Rank | Ticker | Subgroup Name | Sector | Past 1 Month Return |
+| :---: | :---: | :--- | :--- | :---: |
+| 1 | `GDX` | Gold Miners | Materials | 🟢 `+20.15%` |
+| 2 | `SIL` | Silver Miners | Materials | 🟢 `+18.56%` |
+| 3 | `CLOU` | Cloud Computing & SaaS | Technology | 🟢 `+17.15%` |
+| 4 | `IHI` | Medical Devices & Equipment | Health Care | 🟢 `+13.29%` |
+| 5 | `XME` | Metals & Mining | Materials | 🟢 `+12.18%` |
+| 6 | `AWAY` | Travel Tech & Bookings | Consumer Discretionary | 🟢 `+11.63%` |
+| 7 | `XAR` | Aerospace & Defense (Equal Weight) | Industrials | 🟢 `+11.32%` |
+| 8 | `IGV` | Software & Cloud Applications | Technology | 🟢 `+11.16%` |
+| 9 | `OIH` | Oil Services & Equipment | Energy | 🟢 `+9.32%` |
+| 10 | `BDRY` | Dry Bulk Shipping & Maritime Freight | Industrials | 🟢 `+9.06%` |
+
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Top 10 Laggards**
+
+| Rank | Ticker | Subgroup Name | Sector | Past 1 Month Return |
+| :---: | :---: | :--- | :--- | :---: |
+| 52 | `TAN` | Solar Energy | Energy | 🔴 `-5.73%` |
+| 53 | `ICLN` | Clean & Renewable Energy | Energy | 🔴 `-4.51%` |
+| 54 | `XLU` | Electric & Gas Utilities | Utilities | 🔴 `-3.02%` |
+| 55 | `XTN` | Trucking & Logistics | Industrials | 🔴 `-2.76%` |
+| 56 | `SMH` | Semiconductor Manufacturers | Technology | 🔴 `-2.08%` |
+| 57 | `PBS` | Media & Entertainment | Consumer Discretionary | 🔴 `-1.83%` |
+| 58 | `IAI` | Broker-Dealers & Securities Exchanges | Financials | 🔴 `-1.19%` |
+| 59 | `REZ` | Residential & Healthcare REITs | Real Estate | 🔴 `-0.53%` |
+| 60 | `XSD` | Semiconductors - Equal Weight | Technology | 🔴 `-0.52%` |
+| 61 | `IFRA` | US Infrastructure & Engineering | Industrials | 🔴 `-0.29%` |
+
+
+</td>
+</tr>
+</table>
+
 ### 📈 Past 3 Months
 
-#### 🟢 Past 3 Months — Top 10 Leaders
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Top 10 Leaders**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Months Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 1 | `HACK` | Cybersecurity | Technology | 🟢 `+34.91%` |
 | 2 | `CLOU` | Cloud Computing & SaaS | Technology | 🟢 `+30.19%` |
 | 3 | `CIBR` | Cybersecurity Leaders | Technology | 🟢 `+27.21%` |
@@ -63,10 +127,14 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 9 | `PEJ` | Leisure & Entertainment | Consumer Discretionary | 🟢 `+15.94%` |
 | 10 | `IBB` | Biotechnology (Market Weight) | Health Care | 🟢 `+15.73%` |
 
-#### 🔴 Past 3 Months — Top 10 Laggards
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Top 10 Laggards**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Months Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 52 | `TAN` | Solar Energy | Energy | 🔴 `-19.98%` |
 | 53 | `ICLN` | Clean & Renewable Energy | Energy | 🔴 `-17.49%` |
 | 54 | `URA` | Uranium & Nuclear Energy | Energy | 🔴 `-14.42%` |
@@ -78,12 +146,21 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `GRID` | Smart Grid & Electric Infrastructure | Utilities | 🔴 `-4.41%` |
 | 61 | `GDX` | Gold Miners | Materials | 🔴 `-4.24%` |
 
+
+</td>
+</tr>
+</table>
+
 ### 📈 Past 6 Months
 
-#### 🟢 Past 6 Months — Top 10 Leaders
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Top 10 Leaders**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 6 Months Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 1 | `HACK` | Cybersecurity | Technology | 🟢 `+51.73%` |
 | 2 | `XSD` | Semiconductors - Equal Weight | Technology | 🟢 `+50.27%` |
 | 3 | `CIBR` | Cybersecurity Leaders | Technology | 🟢 `+49.42%` |
@@ -95,10 +172,14 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 9 | `XPH` | Pharmaceuticals | Health Care | 🟢 `+25.14%` |
 | 10 | `BDRY` | Dry Bulk Shipping & Maritime Freight | Industrials | 🟢 `+24.34%` |
 
-#### 🔴 Past 6 Months — Top 10 Laggards
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Top 10 Laggards**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 6 Months Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 52 | `URA` | Uranium & Nuclear Energy | Energy | 🔴 `-13.45%` |
 | 53 | `GDX` | Gold Miners | Materials | 🔴 `-13.44%` |
 | 54 | `ITB` | Home Construction | Consumer Discretionary | 🔴 `-12.71%` |
@@ -110,12 +191,21 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `PBJ` | Food & Beverage Manufacturers | Consumer Staples | 🔴 `-4.71%` |
 | 61 | `IHI` | Medical Devices & Equipment | Health Care | 🔴 `-3.63%` |
 
+
+</td>
+</tr>
+</table>
+
 ### 📈 Past 1 Year
 
-#### 🟢 Past 1 Year — Top 10 Leaders
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Top 10 Leaders**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 1 Year Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 1 | `SMH` | Semiconductor Manufacturers | Technology | 🟢 `+95.30%` |
 | 2 | `XSD` | Semiconductors - Equal Weight | Technology | 🟢 `+91.45%` |
 | 3 | `COPX` | Copper Miners | Materials | 🟢 `+89.26%` |
@@ -127,10 +217,14 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 9 | `IDNA` | Genomics & Immunology | Health Care | 🟢 `+58.87%` |
 | 10 | `NXTG` | NextGen 5G & Telecom Infrastructure | Communication | 🟢 `+57.95%` |
 
-#### 🔴 Past 1 Year — Top 10 Laggards
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Top 10 Laggards**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 1 Year Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 52 | `FINX` | FinTech & Digital Payments | Technology | 🔴 `-18.87%` |
 | 53 | `BETZ` | Casinos, Gaming & Sports Betting | Consumer Discretionary | 🔴 `-15.36%` |
 | 54 | `ITB` | Home Construction | Consumer Discretionary | 🔴 `-9.19%` |
@@ -142,12 +236,21 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `XHB` | Homebuilders & Residential Construction | Consumer Discretionary | 🔴 `-3.35%` |
 | 61 | `WOOD` | Timber & Forestry | Materials | 🔴 `-0.73%` |
 
+
+</td>
+</tr>
+</table>
+
 ### 📈 Past 3 Years
 
-#### 🟢 Past 3 Years — Top 10 Leaders
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Top 10 Leaders**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Years Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 1 | `SMH` | Semiconductor Manufacturers | Technology | 🟢 `+295.48%` |
 | 2 | `SIL` | Silver Miners | Materials | 🟢 `+261.04%` |
 | 3 | `GDX` | Gold Miners | Materials | 🟢 `+221.91%` |
@@ -159,10 +262,14 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 9 | `HACK` | Cybersecurity | Technology | 🟢 `+131.79%` |
 | 10 | `XME` | Metals & Mining | Materials | 🟢 `+128.96%` |
 
-#### 🔴 Past 3 Years — Top 10 Laggards
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Top 10 Laggards**
 
 | Rank | Ticker | Subgroup Name | Sector | Past 3 Years Return |
-| :---: | :---: | :--- | :--- | ---: |
+| :---: | :---: | :--- | :--- | :---: |
 | 52 | `TAN` | Solar Energy | Energy | 🔴 `-15.71%` |
 | 53 | `WOOD` | Timber & Forestry | Materials | 🟢 `+3.60%` |
 | 54 | `IHI` | Medical Devices & Equipment | Health Care | 🟢 `+5.91%` |
@@ -174,9 +281,201 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 60 | `BETZ` | Casinos, Gaming & Sports Betting | Consumer Discretionary | 🟢 `+17.10%` |
 | 61 | `BIZD` | Business Development Companies (BDCs) | Financials | 🟢 `+18.18%` |
 
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📋 Complete Master Table (All Subgroups Ranked by IBD RS)
+## 🔥 Biggest Movers — RS-Rank Acceleration
+
+Re-ranks the full universe as it stood N periods ago and diffs each subgroup's RS rating against today. This surfaces subgroups climbing or falling the leaderboard *right now* - a leading signal, distinct from the static "current leaders" tables above.
+
+### ⏳ 2 Weeks
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Fastest RS Gainers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 2 Weeks Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `XME` | Metals & Mining | Materials | 🟢 `+37` | 🟢 `+16.38%` |
+| 2 | `GDX` | Gold Miners | Materials | 🟢 `+27` | 🟢 `+21.42%` |
+| 3 | `SIL` | Silver Miners | Materials | 🟢 `+26` | 🟢 `+21.42%` |
+| 4 | `XAR` | Aerospace & Defense (Equal Weight) | Industrials | 🟢 `+25` | 🟢 `+12.03%` |
+| 5 | `BIZD` | Business Development Companies (BDCs) | Financials | 🟢 `+19` | 🟢 `+7.82%` |
+| 6 | `IGV` | Software & Cloud Applications | Technology | 🟢 `+18` | 🟢 `+10.04%` |
+| 7 | `FDN` | Internet & Digital Services | Technology | 🟢 `+16` | 🟢 `+6.04%` |
+| 8 | `OIH` | Oil Services & Equipment | Energy | 🟢 `+15` | 🟢 `+9.49%` |
+| 9 | `CLOU` | Cloud Computing & SaaS | Technology | 🟢 `+13` | 🟢 `+12.96%` |
+| 10 | `BETZ` | Casinos, Gaming & Sports Betting | Consumer Discretionary | 🟢 `+11` | 🟢 `+2.35%` |
+
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Fastest RS Losers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 2 Weeks Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `REZ` | Residential & Healthcare REITs | Real Estate | 🔴 `-21` | 🔴 `-0.73%` |
+| 2 | `IYK` | Consumer Staples Products | Consumer Staples | 🔴 `-21` | 🟢 `+0.16%` |
+| 3 | `VNQ` | REITs - Broad | Real Estate | 🔴 `-19` | 🔴 `-0.12%` |
+| 4 | `VNQI` | International Real Estate | Real Estate | 🔴 `-19` | 🔴 `-1.17%` |
+| 5 | `IAK` | Property & Casualty Insurance | Financials | 🔴 `-18` | 🔴 `-0.96%` |
+| 6 | `XRT` | Retail - Broad / Omnichannel | Consumer Discretionary | 🔴 `-16` | 🔴 `-0.92%` |
+| 7 | `IFRA` | US Infrastructure & Engineering | Industrials | 🔴 `-15` | 🟢 `+2.10%` |
+| 8 | `KBWP` | Insurance Underwriters | Financials | 🔴 `-14` | 🔴 `-1.21%` |
+| 9 | `XLU` | Electric & Gas Utilities | Utilities | 🔴 `-13` | 🔴 `-0.09%` |
+| 10 | `WOOD` | Timber & Forestry | Materials | 🔴 `-13` | 🟢 `+0.57%` |
+
+
+</td>
+</tr>
+</table>
+
+### ⏳ 1 Month
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Fastest RS Gainers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 1 Month Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `SIL` | Silver Miners | Materials | 🟢 `+44` | 🟢 `+18.56%` |
+| 2 | `GDX` | Gold Miners | Materials | 🟢 `+37` | 🟢 `+20.15%` |
+| 3 | `XAR` | Aerospace & Defense (Equal Weight) | Industrials | 🟢 `+36` | 🟢 `+11.32%` |
+| 4 | `AWAY` | Travel Tech & Bookings | Consumer Discretionary | 🟢 `+30` | 🟢 `+11.63%` |
+| 5 | `XME` | Metals & Mining | Materials | 🟢 `+30` | 🟢 `+12.18%` |
+| 6 | `ITA` | Aerospace & Defense | Industrials | 🟢 `+27` | 🟢 `+7.63%` |
+| 7 | `PEJ` | Leisure & Entertainment | Consumer Discretionary | 🟢 `+21` | 🟢 `+5.33%` |
+| 8 | `IGV` | Software & Cloud Applications | Technology | 🟢 `+18` | 🟢 `+11.16%` |
+| 9 | `WOOD` | Timber & Forestry | Materials | 🟢 `+14` | 🟢 `+6.79%` |
+| 10 | `CLOU` | Cloud Computing & SaaS | Technology | 🟢 `+13` | 🟢 `+17.15%` |
+
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Fastest RS Losers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 1 Month Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `TAN` | Solar Energy | Energy | 🔴 `-55` | 🔴 `-5.73%` |
+| 2 | `ICLN` | Clean & Renewable Energy | Energy | 🔴 `-37` | 🔴 `-4.51%` |
+| 3 | `GRID` | Smart Grid & Electric Infrastructure | Utilities | 🔴 `-21` | 🟢 `+2.26%` |
+| 4 | `XLU` | Electric & Gas Utilities | Utilities | 🔴 `-19` | 🔴 `-3.02%` |
+| 5 | `IFRA` | US Infrastructure & Engineering | Industrials | 🔴 `-18` | 🔴 `-0.29%` |
+| 6 | `LIT` | Lithium & Battery Tech | Materials | 🔴 `-18` | 🟢 `+5.10%` |
+| 7 | `REZ` | Residential & Healthcare REITs | Real Estate | 🔴 `-17` | 🔴 `-0.53%` |
+| 8 | `FAN` | Wind Energy | Energy | 🔴 `-16` | 🟢 `+0.04%` |
+| 9 | `VNQI` | International Real Estate | Real Estate | 🔴 `-15` | 🟢 `+0.33%` |
+| 10 | `PBS` | Media & Entertainment | Consumer Discretionary | 🔴 `-14` | 🔴 `-1.83%` |
+
+
+</td>
+</tr>
+</table>
+
+### ⏳ 3 Months
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Fastest RS Gainers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 3 Months Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `CLOU` | Cloud Computing & SaaS | Technology | 🟢 `+61` | 🟢 `+30.19%` |
+| 2 | `JETS` | Airlines | Industrials | 🟢 `+53` | 🟢 `+20.37%` |
+| 3 | `HACK` | Cybersecurity | Technology | 🟢 `+50` | 🟢 `+34.91%` |
+| 4 | `CIBR` | Cybersecurity Leaders | Technology | 🟢 `+39` | 🟢 `+27.21%` |
+| 5 | `KRE` | Regional Banks | Financials | 🟢 `+38` | 🟢 `+15.72%` |
+| 6 | `AWAY` | Travel Tech & Bookings | Consumer Discretionary | 🟢 `+35` | 🟢 `+21.68%` |
+| 7 | `PEJ` | Leisure & Entertainment | Consumer Discretionary | 🟢 `+34` | 🟢 `+15.94%` |
+| 8 | `KBE` | Commercial Banking | Financials | 🟢 `+34` | 🟢 `+15.51%` |
+| 9 | `KBWP` | Insurance Underwriters | Financials | 🟢 `+34` | 🟢 `+13.76%` |
+| 10 | `IAK` | Property & Casualty Insurance | Financials | 🟢 `+29` | 🟢 `+11.41%` |
+
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Fastest RS Losers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 3 Months Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `TAN` | Solar Energy | Energy | 🔴 `-81` | 🔴 `-19.98%` |
+| 2 | `URA` | Uranium & Nuclear Energy | Energy | 🔴 `-72` | 🔴 `-14.42%` |
+| 3 | `ICLN` | Clean & Renewable Energy | Energy | 🔴 `-67` | 🔴 `-17.49%` |
+| 4 | `BOTZ` | Robotics & Artificial Intelligence | Technology | 🔴 `-50` | 🔴 `-8.17%` |
+| 5 | `LIT` | Lithium & Battery Tech | Materials | 🔴 `-44` | 🔴 `-13.11%` |
+| 6 | `FAN` | Wind Energy | Energy | 🔴 `-43` | 🔴 `-8.00%` |
+| 7 | `GDX` | Gold Miners | Materials | 🔴 `-36` | 🔴 `-4.24%` |
+| 8 | `SIL` | Silver Miners | Materials | 🔴 `-35` | 🔴 `-9.49%` |
+| 9 | `XLC` | Media & Interactive Media | Communication | 🔴 `-31` | 🔴 `-3.30%` |
+| 10 | `GRID` | Smart Grid & Electric Infrastructure | Utilities | 🔴 `-27` | 🔴 `-4.41%` |
+
+
+</td>
+</tr>
+</table>
+
+### ⏳ 6 Months
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟢 Fastest RS Gainers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 6 Months Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `CLOU` | Cloud Computing & SaaS | Technology | 🟢 `+79` | 🟢 `+44.85%` |
+| 2 | `CIBR` | Cybersecurity Leaders | Technology | 🟢 `+78` | 🟢 `+49.42%` |
+| 3 | `HACK` | Cybersecurity | Technology | 🟢 `+77` | 🟢 `+51.73%` |
+| 4 | `IHF` | Health Care Providers & Managed Care | Health Care | 🟢 `+52` | 🟢 `+23.97%` |
+| 5 | `PEJ` | Leisure & Entertainment | Consumer Discretionary | 🟢 `+37` | 🟢 `+15.32%` |
+| 6 | `FDN` | Internet & Digital Services | Technology | 🟢 `+36` | 🟢 `+23.11%` |
+| 7 | `IGV` | Software & Cloud Applications | Technology | 🟢 `+36` | 🟢 `+25.77%` |
+| 8 | `AWAY` | Travel Tech & Bookings | Consumer Discretionary | 🟢 `+35` | 🟢 `+18.46%` |
+| 9 | `XOP` | Oil & Gas Exploration & Production | Energy | 🟢 `+32` | 🟢 `+23.13%` |
+| 10 | `KBWP` | Insurance Underwriters | Financials | 🟢 `+28` | 🟢 `+10.72%` |
+
+
+</td>
+<td width="50%" valign="top">
+
+**🔴 Fastest RS Losers**
+
+| Rank | Ticker | Subgroup Name | Sector | RS Δ | 6 Months Return |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| 1 | `URA` | Uranium & Nuclear Energy | Energy | 🔴 `-88` | 🔴 `-13.45%` |
+| 2 | `TAN` | Solar Energy | Energy | 🔴 `-79` | 🔴 `-10.27%` |
+| 3 | `ICLN` | Clean & Renewable Energy | Energy | 🔴 `-61` | 🔴 `-0.87%` |
+| 4 | `GDX` | Gold Miners | Materials | 🔴 `-53` | 🔴 `-13.44%` |
+| 5 | `VNQI` | International Real Estate | Real Estate | 🔴 `-50` | 🔴 `-9.81%` |
+| 6 | `FAN` | Wind Energy | Energy | 🔴 `-42` | 🟢 `+5.75%` |
+| 7 | `SIL` | Silver Miners | Materials | 🔴 `-40` | 🔴 `-11.77%` |
+| 8 | `ITB` | Home Construction | Consumer Discretionary | 🔴 `-38` | 🔴 `-12.71%` |
+| 9 | `LIT` | Lithium & Battery Tech | Materials | 🔴 `-37` | 🟢 `+3.92%` |
+| 10 | `XME` | Metals & Mining | Materials | 🔴 `-36` | 🔴 `-0.46%` |
+
+
+</td>
+</tr>
+</table>
+
+---
+
+<details>
+<summary><b>📋 Complete Master Table — click to expand (all 61 subgroups)</b></summary>
 
 | Rank | RS | Ticker | Subgroup Name | Sector | Price | 1M | 3M | 6M | 1Y | 3Y |
 | :---: | :---: | :---: | :--- | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
@@ -241,4 +540,6 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 | 59 | 🔴 **6** | `FINX` | FinTech & Digital Payments | Technology | $26.76 | 🟢 `+4.98%` | 🟢 `+5.54%` | 🟢 `+14.95%` | 🔴 `-18.87%` | 🟢 `+20.85%` |
 | 60 | 🔴 **4** | `VNQI` | International Real Estate | Real Estate | $45.49 | 🟢 `+0.33%` | 🔴 `-2.76%` | 🔴 `-9.81%` | 🟢 `+1.15%` | 🟢 `+29.63%` |
 | 61 | 🔴 **3** | `URA` | Uranium & Nuclear Energy | Energy | $44.93 | 🟢 `+8.13%` | 🔴 `-14.42%` | 🔴 `-13.45%` | 🟢 `+20.61%` | 🟢 `+126.59%` |
+
+</details>
 
