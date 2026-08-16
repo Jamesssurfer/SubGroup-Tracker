@@ -12,11 +12,14 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 - 🟡 **RS 31–79:** Neutral / In-Line Subgroups
 - 🔴 **RS ≤ 30:** Severe Sub-Industry Laggards (Institutional Distribution)
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Top 10 Leaders</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">IBD RS Rating</th></tr>
 </thead>
@@ -37,7 +40,10 @@ Calculated using the weighted formula: **`0.40 × 3M + 0.20 × 6M + 0.20 × 9M +
 </td>
 <td width="50%" valign="top">
 <b>🔴 Top 10 Laggards</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">IBD RS Rating</th></tr>
 </thead>
@@ -67,11 +73,14 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 
 ### 📈 Past 1 Month
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Top 10 Leaders</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 1 Month Return</th></tr>
 </thead>
@@ -92,7 +101,10 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 </td>
 <td width="50%" valign="top">
 <b>🔴 Top 10 Laggards</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 1 Month Return</th></tr>
 </thead>
@@ -116,11 +128,14 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 
 ### 📈 Past 3 Months
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Top 10 Leaders</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 3 Months Return</th></tr>
 </thead>
@@ -141,7 +156,10 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 </td>
 <td width="50%" valign="top">
 <b>🔴 Top 10 Laggards</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 3 Months Return</th></tr>
 </thead>
@@ -165,11 +183,14 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 
 ### 📈 Past 6 Months
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Top 10 Leaders</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 6 Months Return</th></tr>
 </thead>
@@ -190,7 +211,10 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 </td>
 <td width="50%" valign="top">
 <b>🔴 Top 10 Laggards</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 6 Months Return</th></tr>
 </thead>
@@ -214,11 +238,14 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 
 ### 📈 Past 1 Year
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Top 10 Leaders</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 1 Year Return</th></tr>
 </thead>
@@ -239,7 +266,10 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 </td>
 <td width="50%" valign="top">
 <b>🔴 Top 10 Laggards</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 1 Year Return</th></tr>
 </thead>
@@ -263,11 +293,14 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 
 ### 📈 Past 3 Years
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Top 10 Leaders</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 3 Years Return</th></tr>
 </thead>
@@ -288,7 +321,10 @@ _Note: 1-week returns are excluded here - too noisy for sub-industry ETF rotatio
 </td>
 <td width="50%" valign="top">
 <b>🔴 Top 10 Laggards</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="8%"><col width="12%"><col width="38%"><col width="24%"><col width="18%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">Past 3 Years Return</th></tr>
 </thead>
@@ -318,11 +354,14 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 
 ### ⏳ 2 Weeks
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Fastest RS Gainers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">2 Weeks Return</th></tr>
 </thead>
@@ -343,7 +382,10 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 </td>
 <td width="50%" valign="top">
 <b>🔴 Fastest RS Losers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">2 Weeks Return</th></tr>
 </thead>
@@ -367,11 +409,14 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 
 ### ⏳ 1 Month
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Fastest RS Gainers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">1 Month Return</th></tr>
 </thead>
@@ -392,7 +437,10 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 </td>
 <td width="50%" valign="top">
 <b>🔴 Fastest RS Losers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">1 Month Return</th></tr>
 </thead>
@@ -416,11 +464,14 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 
 ### ⏳ 3 Months
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Fastest RS Gainers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">3 Months Return</th></tr>
 </thead>
@@ -441,7 +492,10 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 </td>
 <td width="50%" valign="top">
 <b>🔴 Fastest RS Losers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">3 Months Return</th></tr>
 </thead>
@@ -465,11 +519,14 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 
 ### ⏳ 6 Months
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <b>🟢 Fastest RS Gainers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">6 Months Return</th></tr>
 </thead>
@@ -490,7 +547,10 @@ Re-ranks the full universe as it stood N periods ago and diffs each subgroup's R
 </td>
 <td width="50%" valign="top">
 <b>🔴 Fastest RS Losers</b><br/><br/>
-<table>
+<table width="100%">
+<colgroup>
+<col width="7%"><col width="10%"><col width="30%"><col width="20%"><col width="16%"><col width="17%">
+</colgroup>
 <thead>
 <tr><th align="center">Rank</th><th align="center">Ticker</th><th align="left">Subgroup Name</th><th align="left">Sector</th><th align="center">RS Δ</th><th align="center">6 Months Return</th></tr>
 </thead>
