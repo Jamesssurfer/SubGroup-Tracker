@@ -9,16 +9,29 @@
         body, table, th, td, h1, h2, h3, p, span {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
         }
+        html {
+            scroll-behavior: smooth;
+        }
+        h2[id], details[id] {
+            scroll-margin-top: 4.5rem;
+        }
     </style>
 </head>
 <body class="bg-gray-100 min-h-screen font-sans">
     <div class="max-w-full mx-auto px-4 py-8">
         
-    <header class="mb-8 border-b border-gray-200 pb-4">
+    <header class="mb-4 border-b border-gray-200 pb-4">
         <h1 class="text-3xl font-extrabold text-gray-900 tracking-tight">🚀 US Industry Subgroups Momentum Dashboard</h1>
         <p class="text-sm text-gray-500 mt-2">Last Market Close: <b>2026-08-14</b> &nbsp;|&nbsp; Total Subgroups: <b>61</b> &nbsp;|&nbsp; Source: Yahoo Finance</p>
     </header>
-    <h2 class="text-xl font-bold text-gray-900 mb-2">🏆 William O'Neil / IBD-Style Relative Strength</h2>
+    
+    <nav class="sticky top-0 z-10 bg-white/95 backdrop-blur border-b border-gray-200 mb-6 -mx-4 px-4 py-2 flex gap-2 overflow-x-auto">
+        <a href="#ibd-rs" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">🏆 IBD RS Leaderboard</a>
+        <a href="#multi-timeframe" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">⏱ Multi-Timeframe</a>
+        <a href="#biggest-movers" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">🔥 Biggest Movers</a>
+        <a href="#master-table" class="px-3 py-1.5 rounded text-sm font-medium text-gray-700 bg-gray-100 hover:bg-gray-200 whitespace-nowrap">📋 Master Table</a>
+    </nav>
+    <h2 id="ibd-rs" class="text-xl font-bold text-gray-900 mb-2">🏆 William O'Neil / IBD-Style Relative Strength</h2>
 <p class="text-sm text-gray-600 mb-2">Calculated using the weighted formula: <code class="bg-gray-100 px-1 rounded">0.40 × 3M + 0.20 × 6M + 0.20 × 9M + 0.20 × 1Y</code>, percentile ranked from 1 (worst) to 99 (best).</p>
 <ul class="text-sm text-gray-600 list-disc list-inside mb-4">
 <li>🟢 <b>RS ≥ 80:</b> Market Leading Sub-Industries (Institutional Accumulation)</li>
@@ -67,7 +80,7 @@
 </div>
 </div>
 </div>
-<h2 class="text-xl font-bold text-gray-900 mb-2 mt-8">⏱ Multi-Timeframe Leaders & Laggards</h2>
+<h2 id="multi-timeframe" class="text-xl font-bold text-gray-900 mb-2 mt-8">⏱ Multi-Timeframe Leaders & Laggards</h2>
 <p class="text-sm text-gray-500 italic mb-4">1-week returns are excluded - too noisy for sub-industry ETF rotation to be meaningful. 1-Month is shown as an early-signal tripwire, not part of the weighted RS score itself.</p>
 <h3 class="text-base font-semibold text-gray-700 mb-2">📈 Past 1 Month</h3>
 <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
@@ -288,7 +301,7 @@
 </div>
 </div>
 </div>
-<h2 class="text-xl font-bold text-gray-900 mb-2 mt-8">🔥 Biggest Movers — RS-Rank Acceleration</h2>
+<h2 id="biggest-movers" class="text-xl font-bold text-gray-900 mb-2 mt-8">🔥 Biggest Movers — RS-Rank Acceleration</h2>
 <p class="text-sm text-gray-500 italic mb-4">Re-ranks the full universe as it stood N periods ago and diffs each subgroup's RS rating against today - surfaces subgroups climbing or falling the leaderboard right now, distinct from the static "current leaders" tables above.</p>
 <h3 class="text-base font-semibold text-gray-700 mb-2">⏳ 2 Weeks</h3>
 <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
@@ -466,7 +479,7 @@
 </div>
 </div>
 
-    <details class="mt-8 bg-white rounded-lg shadow overflow-hidden">
+    <details id="master-table" class="mt-8 bg-white rounded-lg shadow overflow-hidden">
         <summary class="px-4 py-3 bg-gray-800 text-white font-semibold text-sm cursor-pointer select-none">📋 Complete Master Table — click to expand (all 61 subgroups)</summary>
         <div class="p-4"><div class="overflow-x-auto rounded-lg border border-gray-200">
 <table class="min-w-full">
